@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head></head>
+<body id="home">
+    <script>
+        document.getElementById('home').textContent = 'hello world';
+    </script>
+</body>
+</html>
